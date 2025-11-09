@@ -5,7 +5,7 @@ It runs in the terminal and provides clear, interactive prompts for users.
 
 
 # 🧮 Simple Calculator in Python
-# Author: Your Name
+# Author: amey
 # Description: A basic calculator that performs addition, subtraction, multiplication, and division.
 
 def add(a, b):
